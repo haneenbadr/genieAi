@@ -3,7 +3,7 @@ import requests
 import sys
 
 # Replace with your actual API key
-API_KEY = "AIzaSyD14kS3v5PFKP1BkQ3kOxNaUPyfoVQ7VK0"
+API_KEY = "Your api key"
 
 text=""
 
